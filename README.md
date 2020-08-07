@@ -7,6 +7,6 @@ Bom, esse bot é algo simplorio aonde eu desenvolvi durante a quarentena enquant
 - Lightshot
 
 # Bibliotecas:
-- pyautogui
-- pillow
-- pynput
+- ```pyautogui```
+- ```pillow```
+- ```pynput```
