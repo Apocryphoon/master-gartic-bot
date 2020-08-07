@@ -1,5 +1,5 @@
 <p align="center">
-  ![logoGtc10](https://user-images.githubusercontent.com/32386767/89683389-d369a480-d8ce-11ea-94f9-0496fc411bfe.png)
+  <img src=/Gtc10.png" alt="Gartic"/>
 </p>
 # Gartic AutoDraw
 
