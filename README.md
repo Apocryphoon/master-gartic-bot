@@ -1,4 +1,4 @@
-![unicorn](https://user-images.githubusercontent.com/32386767/89683324-ba60f380-d8ce-11ea-8998-da264a70001c.png)
+![logoGtc10](https://user-images.githubusercontent.com/32386767/89683389-d369a480-d8ce-11ea-94f9-0496fc411bfe.png)
 
 
 # Gartic AutoDraw
