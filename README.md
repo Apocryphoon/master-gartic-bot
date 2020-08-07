@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=https://github.com/Apocryphoon/garticBOT/blob/master/Gtc10.png" alt="Gartic"/>
+  <img src=/Apocryphoon/garticBOT/raw/master/Gtc10.png" alt="Gartic"/>
 </p>
                                                          
 # Gartic AutoDraw
