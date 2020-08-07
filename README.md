@@ -15,6 +15,9 @@ Bom, esse bot é algo simplorio aonde eu desenvolvi durante a quarentena enquant
 - ```import pillow```
 - ```import pynput```
 
+# Créditos:
+- Ricardo Cardoso - Apocryphoon
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/32386767/89684916-b7b3cd80-d8d1-11ea-934a-0078ec1f544c.png" alt="Gartic" height="200" width="200"/>
 </p>
