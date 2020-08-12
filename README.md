@@ -19,5 +19,5 @@ Bom, esse bot é algo simplorio aonde eu desenvolvi durante a quarentena enquant
 - Apocryphoon
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/32386767/89684916-b7b3cd80-d8d1-11ea-934a-0078ec1f544c.png" alt="Gartic" height="200" width="200"/>
+  <img src="https://user-images.githubusercontent.com/32386767/89966197-f5dc2480-dc24-11ea-95b8-da001f6142eb.png" alt="Gartic" height="200" width="200"/>
 </p>
