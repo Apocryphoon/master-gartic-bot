@@ -16,7 +16,7 @@ Bom, esse bot é algo simplorio aonde eu desenvolvi durante a quarentena enquant
 - ```pip install pynput```
 - ```pip install pyfiglet```
 
-# Starting
+# Starting:
 
 Olá, bom eu não deixei bem um "passo-a-passo" pois achei que já estava intuitivo bem, parte do código é do ipsBruno, créditos a ele. Para que o programa funcione siga isso:
 
