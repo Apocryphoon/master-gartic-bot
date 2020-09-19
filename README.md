@@ -11,9 +11,30 @@ Bom, esse bot é algo simplorio aonde eu desenvolvi durante a quarentena enquant
 - Lightshot
 
 # Bibliotecas:
-- ```import pyautogui```
-- ```import pillow```
-- ```import pynput```
+- ```pip install pyautogui```
+- ```pip install pillow```
+- ```pip install pynput```
+- ```pip install pyfiglet```
+
+# Starting
+
+Olá, bom eu não deixei bem um "passo-a-passo" pois achei que já estava intuitivo bem, parte do código é do ipsBruno, créditos a ele. Para que o programa funcione siga isso:
+
+1- Baixe o repositório para uma pasta em sua área de trabalho.
+2- Execute um prompt de comando.
+3- Entre na pasta que acaba de criar na sua área de trabalho usando o comando "cd" do ms-dos.
+4- Após entrar na pasta, digite por "python bot.py".
+5- Aguarde! Ele deve abrir o script nesta tela do prompt.
+6- Após abrir ele pede que você informe alguns pontos como paleta de cores, pincel entre outros usando **Ctrl + X**.
+
+**OBS**: Poderia passar minhas config porém isso muda de resolução para resolução.
+
+7- Após isso, você procure por uma imagem no google, printa ela usando o Lightshot.
+8- Volte ao gartic.io ou gartic.com e use **Ctrl + B**.
+9- Ele vai processar imagem e em alguns segundos começa pintar ela.
+10- Após termina um desenho, repita o processo o comando **Ctrl + I** não está mais operando.
+
+**OBS:** Fui informado que o programa não está pegando mto bem as cores no gartic.io portando, seu desenho deve ter divergência de cores, o programa não está 100% e deixei o projeto devido a alguns projeto da faculdade.
 
 # Créditos:
 - Apocryphoon
